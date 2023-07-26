@@ -1,7 +1,7 @@
 # Sorting-Visualizer
 #Github id(https://github.com/Parvej45)
 
-📌 Live Site URL: Visit Now 🚀
+## 📌 **Live Site URL:** <a href="https://sorting-visulization.netlify.app/">**Visit Now** 🚀</a>
 
 Screenshots:-
 ![screencapture-tranquil-kleicha-bc4a57-netlify-app-2023-07-26-10_27_59](https://github.com/Parvej45/Sorting-Visualizer/assets/97740459/8c8d9e1e-045b-4ead-9611-1fc65a776b99)
